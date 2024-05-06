@@ -1,0 +1,31 @@
+
+body#miCuerpo {
+  background-color: hsl(223, 100%, 85%);
+}
+
+main {
+  background-color: whitesmoke;
+}
+
+.architects-daughter-regular {
+  font-family: "Architects Daughter", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: xx-large;
+  color: aliceblue;
+}
+
+.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.texto-subtitulo {
+  color: yellow;
+  font-size: small;
+}
+
+.logo_plataforma {
+  width: 40px;
+}
